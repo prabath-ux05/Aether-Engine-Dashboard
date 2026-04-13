@@ -1,7 +1,7 @@
 # 🎨 Aether Engine Dashboard
 
 ## 📌 Overview
-Task 3 focuses on designing and implementing a modern, responsive, and user-friendly interface. The goal is to enhance usability, ensure visual consistency, and provide a seamless experience across different devices.
+This Project focuses on designing and implementing a modern, responsive, and user-friendly interface. The goal is to enhance usability, ensure visual consistency, and provide a seamless experience across different devices.
 
 ---
 
